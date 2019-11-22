@@ -1,0 +1,7 @@
+.bordercolor{
+    border-color: red;
+  }
+  .bordercolor:focus{
+    border-color: red;
+    box-shadow: none;
+  }
